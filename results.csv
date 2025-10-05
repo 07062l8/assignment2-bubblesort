@@ -1,0 +1,4 @@
+InputSize;Comparisons;Swaps;Time(ms);IsSorted
+100;4872;2279;0,7139;true
+1000;497609;256720;19,2616;true
+10000;49988330;25148813;154,3346;true
